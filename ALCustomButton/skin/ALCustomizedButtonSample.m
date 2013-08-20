@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 Lobanov Aleksey. All rights reserved.
 //
 
-#import "ALCustomizedButtonRed.h"
+#import "ALCustomizedButtonSample.h"
 
-@implementation ALCustomizedButtonRed
+@implementation ALCustomizedButtonSample
 
 - (NSString *) bgNotmalImageName {
     return @"al_btnRedNormal.png";

@@ -8,6 +8,6 @@
 
 #import "ALCustomizedButton.h"
 
-@interface ALCustomizedButtonRed : ALCustomizedButton
+@interface ALCustomizedButtonSample : ALCustomizedButton
 
 @end

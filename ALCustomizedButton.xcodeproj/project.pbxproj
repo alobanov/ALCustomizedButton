@@ -27,7 +27,7 @@
 		E88217AA17C3614700863EF7 /* al_btnRedNormal_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = E882179D17C3614700863EF7 /* al_btnRedNormal_selected.png */; };
 		E88217AB17C3614700863EF7 /* al_btnRedNormal_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E882179E17C3614700863EF7 /* al_btnRedNormal_selected@2x.png */; };
 		E88217AC17C3614700863EF7 /* ALCustomizedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = E88217A017C3614700863EF7 /* ALCustomizedButton.m */; };
-		E88217AD17C3614700863EF7 /* ALCustomizedButtonRed.m in Sources */ = {isa = PBXBuildFile; fileRef = E88217A317C3614700863EF7 /* ALCustomizedButtonRed.m */; };
+		E88217AD17C3614700863EF7 /* ALCustomizedButtonSample.m in Sources */ = {isa = PBXBuildFile; fileRef = E88217A317C3614700863EF7 /* ALCustomizedButtonSample.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,8 +57,8 @@
 		E882179E17C3614700863EF7 /* al_btnRedNormal_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "al_btnRedNormal_selected@2x.png"; sourceTree = "<group>"; };
 		E882179F17C3614700863EF7 /* ALCustomizedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALCustomizedButton.h; sourceTree = "<group>"; };
 		E88217A017C3614700863EF7 /* ALCustomizedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALCustomizedButton.m; sourceTree = "<group>"; };
-		E88217A217C3614700863EF7 /* ALCustomizedButtonRed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALCustomizedButtonRed.h; sourceTree = "<group>"; };
-		E88217A317C3614700863EF7 /* ALCustomizedButtonRed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALCustomizedButtonRed.m; sourceTree = "<group>"; };
+		E88217A217C3614700863EF7 /* ALCustomizedButtonSample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALCustomizedButtonSample.h; sourceTree = "<group>"; };
+		E88217A317C3614700863EF7 /* ALCustomizedButtonSample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALCustomizedButtonSample.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,10 +133,10 @@
 		E882179517C3614700863EF7 /* ALCustomButton */ = {
 			isa = PBXGroup;
 			children = (
+				E88217A117C3614700863EF7 /* skin */,
 				E882179617C3614700863EF7 /* alBtnImage */,
 				E882179F17C3614700863EF7 /* ALCustomizedButton.h */,
 				E88217A017C3614700863EF7 /* ALCustomizedButton.m */,
-				E88217A117C3614700863EF7 /* skin */,
 			);
 			path = ALCustomButton;
 			sourceTree = "<group>";
@@ -159,8 +159,8 @@
 		E88217A117C3614700863EF7 /* skin */ = {
 			isa = PBXGroup;
 			children = (
-				E88217A217C3614700863EF7 /* ALCustomizedButtonRed.h */,
-				E88217A317C3614700863EF7 /* ALCustomizedButtonRed.m */,
+				E88217A217C3614700863EF7 /* ALCustomizedButtonSample.h */,
+				E88217A317C3614700863EF7 /* ALCustomizedButtonSample.m */,
 			);
 			path = skin;
 			sourceTree = "<group>";
@@ -243,7 +243,7 @@
 				E882178517C3604B00863EF7 /* ViewController.m in Sources */,
 				E882179217C3608F00863EF7 /* main.m in Sources */,
 				E88217AC17C3614700863EF7 /* ALCustomizedButton.m in Sources */,
-				E88217AD17C3614700863EF7 /* ALCustomizedButtonRed.m in Sources */,
+				E88217AD17C3614700863EF7 /* ALCustomizedButtonSample.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

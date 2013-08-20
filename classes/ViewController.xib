@@ -189,7 +189,7 @@
 				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 				<string key="-2.CustomClassName">UIResponder</string>
 				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-				<string key="13.CustomClassName">ALCustomizedButtonRed</string>
+				<string key="13.CustomClassName">ALCustomizedButtonSample</string>
 				<string key="13.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 				<string key="6.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 				<string key="8.CustomClassName">ALCustomizedButton</string>
@@ -212,11 +212,11 @@
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
-					<string key="className">ALCustomizedButtonRed</string>
+					<string key="className">ALCustomizedButtonSample</string>
 					<string key="superclassName">ALCustomizedButton</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBProjectSource</string>
-						<string key="minorKey">./Classes/ALCustomizedButtonRed.h</string>
+						<string key="minorKey">./Classes/ALCustomizedButtonSample.h</string>
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
